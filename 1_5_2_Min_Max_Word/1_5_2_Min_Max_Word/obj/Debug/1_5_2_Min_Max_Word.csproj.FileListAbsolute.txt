@@ -1,0 +1,7 @@
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_2_Min_Max_Word\1_5_2_Min_Max_Word\bin\Debug\1_5_2_Min_Max_Word.exe.config
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_2_Min_Max_Word\1_5_2_Min_Max_Word\bin\Debug\1_5_2_Min_Max_Word.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_2_Min_Max_Word\1_5_2_Min_Max_Word\bin\Debug\1_5_2_Min_Max_Word.pdb
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_2_Min_Max_Word\1_5_2_Min_Max_Word\obj\Debug\1_5_2_Min_Max_Word.csprojAssemblyReference.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_2_Min_Max_Word\1_5_2_Min_Max_Word\obj\Debug\1_5_2_Min_Max_Word.csproj.CoreCompileInputs.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_2_Min_Max_Word\1_5_2_Min_Max_Word\obj\Debug\1_5_2_Min_Max_Word.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_2_Min_Max_Word\1_5_2_Min_Max_Word\obj\Debug\1_5_2_Min_Max_Word.pdb
